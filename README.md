@@ -10,12 +10,12 @@ The goal is to analyze stock market order book data to extract insights such as 
 
 ```mermaid
 graph TD
-    A[Parquet Data] --> B[Spark Ingestion (Scala)]
-    B --> C[Cleaning & Feature Engineering]
-    C --> D[Window Functions (Temporal Analysis)]
-    D --> E[MLlib K-Means Clustering]
-    E --> F[Text Reports (output/)]
-    F --> G[Streamlit Dashboard (Python)]
+    A["Parquet Data"] --> B["Spark Ingestion (Scala)"]
+    B --> C["Cleaning & Feature Engineering"]
+    C --> D["Window Functions (Temporal Analysis)"]
+    D --> E["MLlib K-Means Clustering"]
+    E --> F["Text Reports (output/)"]
+    F --> G["Streamlit Dashboard (Python)"]
 ```
 
 ### 📂 Project Structure
