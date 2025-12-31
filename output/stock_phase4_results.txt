@@ -1,0 +1,10 @@
+PHASE 4 – SPARK MLLIB : CLUSTERING DES SESSIONS
+================================================
+
+Méthode utilisée : KMeans
+Nombre de clusters : 3
+
+Statistiques par cluster :
+- Cluster 0 | sessions=3285 | spread=0,000739 | volatilité=0,000091 | variation_prix=0,000053
+- Cluster 1 | sessions=509 | spread=0,002477 | volatilité=0,000246 | variation_prix=0,000141
+- Cluster 2 | sessions=36 | spread=0,007643 | volatilité=0,000553 | variation_prix=0,000307

@@ -1,0 +1,29 @@
+
+# Data
+data/
+*.parquet
+*.csv
+
+# Build artifacts
+target/
+project/target/
+project/project/
+.bloop/
+.metals/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+winutils.exe

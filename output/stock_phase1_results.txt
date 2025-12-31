@@ -1,0 +1,24 @@
+PHASE 1 – INGESTION ET EXPLORATION INITIALE (STOCK)
+==================================================
+
+Nombre total de lignes dans le dataset : 917553
+Analyse effectuée sur un échantillon de : 917553 lignes
+
+Statistiques du marché :
+ - Spread moyen (Niveau 1) : 0.001030645271023771
+ - Spread moyen (Niveau 2) : 0.0014289600263522868
+ - Nombre d'actions uniques : 1
+ - Nombre de créneaux temporels : 3830
+
+Valeurs NULL par colonne (sur échantillon) :
+ - time_id : 0
+ - seconds_in_bucket : 0
+ - bid_price1 : 0
+ - ask_price1 : 0
+ - bid_price2 : 0
+ - ask_price2 : 0
+ - bid_size1 : 0
+ - ask_size1 : 0
+ - bid_size2 : 0
+ - ask_size2 : 0
+ - stock_id : 0

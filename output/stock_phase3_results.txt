@@ -1,0 +1,9 @@
+PHASE 3 – ANALYSE TEMPORELLE AVANCÉE (WINDOW FUNCTIONS)
+======================================================
+
+Fenêtres utilisées :
+- Fenêtre glissante de 6 observations (rowsBetween -5, 0)
+- Partitionnement par stock_id et time_id
+
+Top 10 stocks les plus volatils :
+- stock_id=0 | spread_moyen=0,001033 | volatilité_moyenne=0,000117 | variation_prix=0,000069

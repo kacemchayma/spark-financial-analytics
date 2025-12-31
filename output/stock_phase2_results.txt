@@ -1,0 +1,27 @@
+PHASE 2 – ANALYSE DESCRIPTIVE & FEATURE ENGINEERING
+===================================================
+
+Nombre de lignes analysées (échantillon) : 9022
+
+Statistiques des spreads :
+count | 9022 | 9022
+mean | 0.0010264207745465173 | 0.0014231465154041923
+stddev | 0.0010645304803673908 | 0.0012849574031542053
+min | 4.7922134E-5 | 1.8787384E-4
+max | 0.026857376 | 0.029492974
+
+Statistiques de la liquidité (niveau 1) :
+count | 9022
+mean | 215.65938816227
+stddev | 151.32187906983526
+min | 2
+max | 1571
+
+Statistiques du déséquilibre acheteur/vendeur :
+count | 9022
+mean | 0.05723117234028572
+stddev | 0.6436175926437048
+min | -0.9987269255251432
+max | 0.9977298524404086
+
+Distribution temporelle (seconds_in_bucket) :
